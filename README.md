@@ -16,9 +16,3 @@
 - خادم ويب يدعم PHP (مثل Apache).
 - قاعدة بيانات MySQL.
 - Bootstrap 5 (مضمنة عبر CDN لواجهة المستخدم).
-
-## خطوات الإعداد والاستخدام
-
-1. **استنساخ المستودع:**
-   ```bash
-   git clone https://github.com/Al-Nahari/Hospital.git
